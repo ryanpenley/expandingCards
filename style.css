@@ -12,6 +12,8 @@ body {
   height: 100vh;
   overflow: hidden;
   margin: 0;
+  overflow: scroll;
+-webkit-overflow-scrolling: touch;
 }
 
 .container {
